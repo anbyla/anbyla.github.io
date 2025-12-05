@@ -1,0 +1,10 @@
+{
+  "name": "radio-backend",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.14.2",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
